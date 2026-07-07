@@ -40,12 +40,13 @@ The major components of the machine include:
 * Discharge section
 * Fasteners and connecting elements
 
-## Engineering Drawings
+## 📐 Engineering Drawings
 
-The project includes engineering drawings related to:
+The project includes detailed engineering documentation and design files:
 
-* Individual machine components
-* Part drawings
+* [Engineering Drawing (PDF)](./plastic-shredder-engineering-drawing.pdf)
+* [SOLIDWORKS Component Files](./plastic-shredder-components.zip)
+* Individual machine component drawings
 * Assembly drawing
 * Orthographic views
 * Sectional views
