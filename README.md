@@ -61,9 +61,10 @@ The design and drawing process considers:
 
 ## Tools and Software
 
-* CAD software for engineering drawing and design
-* Mechanical drafting tools
-* Standard engineering drawing conventions
+* SOLIDWORKS
+* 3D Part Modeling
+* Assembly Modeling
+* Engineering Drawing and Drafting
 
 ## Skills Demonstrated
 
