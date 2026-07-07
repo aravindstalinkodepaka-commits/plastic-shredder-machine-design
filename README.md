@@ -86,6 +86,6 @@ This project demonstrates the application of mechanical engineering and machine 
 
 ## Author
 
-Aravind Stalin Kodepaka
+**Aravind Stalin Kodepaka**
 
 Mechanical Engineering Student
