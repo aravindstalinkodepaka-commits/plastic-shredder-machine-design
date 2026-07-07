@@ -25,6 +25,8 @@ The shredded plastic is then discharged from the machine for further handling, r
 
 A demonstration video of the Plastic Shredder Machine assembly and design is included in this repository.
 
+* [Plastic Shredder Machine Demonstration](./plastic-shredder-machine-demo.mp4)
+
 ## Main Components
 
 The major components of the machine include:
@@ -40,7 +42,7 @@ The major components of the machine include:
 * Discharge section
 * Fasteners and connecting elements
 
-## 📐 Engineering Drawings
+## Engineering Drawings
 
 The project includes detailed engineering documentation and design files:
 
