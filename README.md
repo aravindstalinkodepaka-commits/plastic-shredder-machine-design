@@ -21,6 +21,10 @@ The plastic shredder machine operates by feeding plastic waste through a hopper 
 
 The shredded plastic is then discharged from the machine for further handling, recycling, or processing.
 
+## Project Demonstration
+
+A demonstration video of the Plastic Shredder Machine assembly and design is included in this repository.
+
 ## Main Components
 
 The major components of the machine include:
